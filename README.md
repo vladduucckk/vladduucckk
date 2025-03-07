@@ -1,7 +1,17 @@
-I specialize in backend development for web applications using Python and frameworks like Django, Flask, and FastAPI, leveraging Django ORM or SQLAlchemy for database management. My expertise includes building RESTful APIs with DRF (Django) and flask-restful (Flask), complemented by technical documentation using Swagger.
+I have experience developing the backend of web applications using Python with frameworks such as Django, Flask, and FastAPI. As an ORM, I use Django ORM or SQLAlchemy (for Flask and FastAPI).
+I develop RESTful applications using Django REST Framework (DRF) for Django and Flask-RESTful for Flask and create technical documentation with Swagger.
+Additionally, I have backend development experience with PHP.
+For testing, I use Pytest and Unittest or Postman (for API testing).
 
-In testing, I utilize Pytest and Unittest, while my web scraping projects involve BeautifulSoup4, Requests, and Selenium for browser task automation. I am experienced in containerization with Docker and Kubernetes and possess strong knowledge of UNIX systems (Linux, macOS), including Bash/Shell scripting.
+Additional tools I use for backend development include Redis, RabbitMQ, and Celery.
+When web scraping is needed, I work with BeautifulSoup4 and Requests.
+For browser automation, I use Selenium and Playwright.
 
-My deployment experience includes hosting Python projects on platforms like PythonAnywhere. I am skilled in Git and GitHub for version control and have practical knowledge of network protocols such as HTTP, HTTPS, DNS, FTP, SMTP, and SSH.
+For containerization, I work with Docker and Kubernetes.
+I have a solid understanding of UNIX-based systems (Linux, macOS), including Bash/Shell scripting.
+I have deployed Python projects on hosting platforms.
+I am proficient in version control tools such as Git and GitHub.
+I have knowledge of the application layer of TCP/IP, including HTTP, HTTPS, DNS, FTP, SMTP, and SSH.
 
-On the frontend, I work with HTML, CSS/Bootstrap, and JavaScript. Additionally, my commercial experience as an analyst includes working with relational databases like PostgreSQL, MySQL, and SQLite, as well as NoSQL databases like MongoDB in relevant projects.
+Regarding frontend technologies, I work with HTML, CSS/Bootstrap, JavaScript, jQuery, and AlpineJS.
+For databases, I use PostgreSQL, MySQL, and SQLite, as well as MongoDB for projects that require NoSQL solutions.
