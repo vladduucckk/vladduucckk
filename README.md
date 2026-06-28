@@ -1,17 +1,6 @@
-I have experience developing the backend of web applications using Python with frameworks such as Django, Flask, and FastAPI. As an ORM, I use Django ORM or SQLAlchemy (for Flask and FastAPI).
-I develop RESTful applications using Django REST Framework (DRF) for Django and Flask-RESTful for Flask and create technical documentation with Swagger.
-Additionally, I have backend development experience with PHP.
-For testing, I use Pytest and Unittest or Postman (for API testing).
-
-Additional tools I use for backend development include Redis, RabbitMQ, and Celery.
-When web scraping is needed, I work with BeautifulSoup4 and Requests.
-For browser automation, I use Selenium and Playwright.
-
-For containerization, I work with Docker and Kubernetes.
-I have a solid understanding of UNIX-based systems (Linux, macOS), including Bash/Shell scripting.
-I have deployed Python projects on hosting platforms.
-I am proficient in version control tools such as Git and GitHub.
-I have knowledge of the application layer of TCP/IP, including HTTP, HTTPS, DNS, FTP, SMTP, and SSH.
-
-Regarding frontend technologies, I work with HTML, CSS/Bootstrap, JavaScript, jQuery, and AlpineJS.
-For databases, I use PostgreSQL, MySQL, and SQLite, as well as MongoDB for projects that require NoSQL solutions.
+I am a Python Backend Developer and DevOps Engineer with hands-on experience designing, developing, and maintaining scalable backend systems and cloud infrastructure in production environments. I specialize in building reliable distributed systems, backend services, and automation-driven infrastructure.
+On the backend side, I have strong experience developing REST APIs and microservices using Django, Flask, and FastAPI. I have worked extensively with asynchronous processing and background task systems using Celery, as well as message-driven architectures with RabbitMQ and Kafka. My work includes designing database schemas, optimizing queries, and ensuring high performance across PostgreSQL, MySQL, Oracle(PL/SQL), and MongoDB databases.
+As a DevOps engineer, I have experience building and maintaining CI/CD pipelines(Gitlab pipeline), containerizing applications with Docker, and orchestrating deployments in Kubernetes environments. I also work with Infrastructure as Code using Terraform and Ansible, and manage cloud-based systems on AWS and Google Cloud Platform. My responsibilities include system monitoring, logging, and performance tuning using tools such as Grafana+Prometheus or Zabbix, as well as maintaining Linux-based production environments and Nginx configurations.
+I have strong experience with Linux system administration, networking, and production troubleshooting in high-load environments, including financial systems. I regularly automate operational tasks using Bash and Python scripting, and ensure system reliability and scalability.
+In addition to my technical expertise, I work effectively in Agile/Scrum environments, participate in sprint planning, code reviews, and architecture discussions, and collaborate closely with backend, frontend, QA, and product teams to deliver stable and maintainable solutions.
+I am focused on building robust, scalable, and maintainable backend systems and infrastructure that support business-critical applications.
