@@ -91,10 +91,6 @@ Collaboration             Agile · Scrum · Kanban · Code Reviews
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladduucckk&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladduucckk&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vladduucckk&theme=radical&hide_border=true)
 
 </div>
@@ -106,6 +102,9 @@ Collaboration             Agile · Scrum · Kanban · Code Reviews
 I'm interested in **backend architecture, distributed systems, cloud infrastructure, automation, and reliable production engineering**.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-moiseiev-284925186/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vladislavmojseev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/vladduucckk)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladduucckk)
 
 ---
 
